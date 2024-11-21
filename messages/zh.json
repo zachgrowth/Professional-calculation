@@ -1,0 +1,62 @@
+{
+  "common": {
+    "calculate": "计算",
+    "clear": "清除",
+    "export": "导出",
+    "copy": "复制",
+    "result": "结果",
+    "history": "历史记录",
+    "noCalculations": "暂无计算记录",
+    "error": {
+      "invalidInput": "无效输入",
+      "enterValidNumbers": "请为所有字段输入有效数字。"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "educationHub": "教育中心",
+    "businessHub": "商业中心",
+    "conversionTools": "转换工具",
+    "basicTutorials": "基础教程"
+  },
+  "home": {
+    "title": "高级计算器套件",
+    "subtitle": "专业的百分比、财务和统计计算工具。快速、准确、易用。"
+  },
+  "footer": {
+    "copyright": "©2024 calculatorhub.tools。保留所有权利。",
+    "terms": "条款",
+    "privacy": "隐私",
+    "contact": "联系我们"
+  },
+  "calculators": {
+    "basic": {
+      "title": "基础计算器",
+      "description": "轻松计算百分比"
+    },
+    "education": {
+      "title": "教育计算器中心",
+      "description": "面向教育者和学生的专业成绩计算工具",
+      "grade": {
+        "title": "成绩计算器",
+        "description": "计算成绩和学术分数"
+      },
+      "gpa": {
+        "title": "GPA计算器",
+        "description": "将成绩转换为GPA"
+      }
+    },
+    "business": {
+      "title": "商业计算器中心",
+      "description": "专业的商业运营财务计算工具",
+      "roi": {
+        "title": "ROI计算器",
+        "description": "计算投资回报率"
+      },
+      "discount": {
+        "title": "折扣计算器",
+        "description": "计算折扣和节省金额"
+      }
+    }
+  }
+}

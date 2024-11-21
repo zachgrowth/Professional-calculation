@@ -1,0 +1,62 @@
+{
+  "common": {
+    "calculate": "Calculate",
+    "clear": "Clear",
+    "export": "Export",
+    "copy": "Copy",
+    "result": "Result",
+    "history": "History",
+    "noCalculations": "No calculations yet",
+    "error": {
+      "invalidInput": "Invalid Input",
+      "enterValidNumbers": "Please enter valid numbers for all fields."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "educationHub": "Education Hub",
+    "businessHub": "Business Hub",
+    "conversionTools": "Conversion Tools",
+    "basicTutorials": "Basic Tutorials"
+  },
+  "home": {
+    "title": "Advanced Calculator Suite",
+    "subtitle": "Professional calculation tools for percentages, finances, and statistics. Fast, accurate, and easy to use."
+  },
+  "footer": {
+    "copyright": "©2024 calculatorhub.tools. All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "calculators": {
+    "basic": {
+      "title": "Basic Calculator",
+      "description": "Calculate percentages with ease"
+    },
+    "education": {
+      "title": "Education Calculator Hub",
+      "description": "Professional grade calculation tools for educators and students",
+      "grade": {
+        "title": "Grade Calculator",
+        "description": "Calculate grades and academic scores"
+      },
+      "gpa": {
+        "title": "GPA Calculator",
+        "description": "Convert grades to GPA"
+      }
+    },
+    "business": {
+      "title": "Business Calculator Hub",
+      "description": "Professional financial calculation tools for business operations",
+      "roi": {
+        "title": "ROI Calculator",
+        "description": "Calculate return on investment"
+      },
+      "discount": {
+        "title": "Discount Calculator",
+        "description": "Calculate discounts and savings"
+      }
+    }
+  }
+}
